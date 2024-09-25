@@ -9,5 +9,5 @@ Involved in the development scene since I was 13, creating websites and forums f
 <samp>
     <a href="https://shoto.studio">me</a> .
     <a href="https://www.linkedin.com/in/leroy-davidson-descelles-b61652105">linkedin</a> .
-    <a href="https://instagram.com/yoreljenkins">instagram</a> .
+    <a href="https://instagram.com/yoreljenkins">instagram</a> 
 </samp>
